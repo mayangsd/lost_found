@@ -20,7 +20,7 @@
         </activity>
 
         <activity
-            android:name=".detail_foundActivity"
+            android:name=".DetailFoundActivity"
             android:exported="true" />
         <activity
             android:name=".ChangeActivity"

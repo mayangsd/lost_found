@@ -1,14 +1,16 @@
-package com.example.lost_found;
+package com.example.lostfound_app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class detail_foundActivity extends AppCompatActivity {
+import com.example.lost_found.R;
+
+public class CategoryActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detail_found);
+        setContentView(R.layout.activity_category);
     }
 }
